@@ -8,7 +8,7 @@ This is an app that allows the user to exchange/buy/sell pre-owned books to fell
 
 # Some screenshots of the app
 
-![image](https://user-images.githubusercontent.com/79751400/140055761-d6f8bf9d-cdf7-432b-a433-ce0ecb0a7578.png)
+![image](https://user-images.githubusercontent.com/79751400/140056224-0cdc765c-585c-47a1-993e-67546fde77d2.png)
 ![image](https://user-images.githubusercontent.com/79751400/140055452-9596dcf1-60dd-4a07-a8c3-d3f9e158308a.png)
 ![image](https://user-images.githubusercontent.com/79751400/140055473-765f14bf-dfaa-406f-8b7d-032427402b8a.png)
 
